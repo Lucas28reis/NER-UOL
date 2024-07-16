@@ -1,0 +1,9 @@
+pandas
+transformers
+torch
+seaborn
+matplotlib
+tqdm
+wordcloud
+ipywidgets
+jupyter
