@@ -1,7 +1,7 @@
 
 # Analysis of Organizations Mentioned in News from the First Quarter of 2015
 
-This project analyzes the organizations mentioned in news articles in the "Market" category during the first quarter of 2015. We use the `monilouise/ner_pt_br` model for named entity recognition (NER) to identify organizations mentioned in the texts. We then generate a ranking of the most mentioned organizations and visualize the data in a horizontal bar chart and a word cloud.
+This project analyzes the organizations mentioned in news articles in the "Market" category during the first quarter of 2015. We use the monilouise/ner_pt_br model for named entity recognition (NER) to identify organizations mentioned in the texts. We then generate a ranking of the most mentioned organizations and visualize the data in a horizontal bar chart and a word cloud using the NLTK stopword list.
 
 ## Data
 
@@ -15,10 +15,11 @@ Make sure to install the following libraries before running the code:
 - pandas
 - transformers
 - torch
-- seaborn
+- nltk
 - matplotlib
 - tqdm
 - wordcloud
+- seaborn
 
 You can install the dependencies by running:
 
