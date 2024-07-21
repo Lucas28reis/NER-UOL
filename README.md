@@ -19,7 +19,7 @@ Make sure to install the following libraries before running the code:
 - matplotlib
 - tqdm
 - wordcloud
-- seaborn
+- seabron
 
 You can install the dependencies by running:
 
