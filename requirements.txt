@@ -1,9 +1,10 @@
 pandas
 transformers
 torch
-seaborn
+nltk
 matplotlib
 tqdm
 wordcloud
 ipywidgets
 jupyter
+seabron
